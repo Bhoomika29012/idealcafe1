@@ -28,6 +28,19 @@ It provides a smooth and engaging user experience with sections for menu browsin
 - **UI Components:** React-Bootstrap (Carousel, Cards, Forms, Buttons, Grid, Flexbox)  
 
 ---
+## Screenshots 
+
+<img width="1880" height="632" alt="ice1" src="https://github.com/user-attachments/assets/05f5e413-e943-4d2e-8f23-814854396c2d" />
+
+
+
+<img width="1280" height="917" alt="ice2" src="https://github.com/user-attachments/assets/ef8010f8-cf98-436e-8594-a84508e4175d" />
+
+
+
+
+<img width="1040" height="932" alt="icce3" src="https://github.com/user-attachments/assets/62f83733-844e-44d4-afc3-60e17c3045c4" />
+
 
 ## ⚡ Installation  
 
