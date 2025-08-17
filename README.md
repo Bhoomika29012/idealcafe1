@@ -34,7 +34,10 @@ It provides a smooth and engaging user experience with sections for menu browsin
 
 
 
+
+
 <img width="1280" height="917" alt="ice2" src="https://github.com/user-attachments/assets/ef8010f8-cf98-436e-8594-a84508e4175d" />
+
 
 
 
